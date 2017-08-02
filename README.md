@@ -28,7 +28,7 @@ Any dependency that you need you can put in this file, It will help when exporti
 
 # FILE: api-testing.rb
 
-Here, we have all tests that we need for testing our api(POST, GET, PUT and DELETE).</br>
+Here, we have some tests that we need for testing our api(GET, PUT).</br>
 In this project i am testing a API that i have created and you can see here: https://github.com/nathsilv/api-node</br>
 This api is about series and it is simple!</br>
 For you test this project, you will need the API, so downloading that api-node project too! and Enjoy!
